@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/ViralLka/changeMD/compare/v1.1.0...v1.1.2) (2024-01-29)
+
+
+### Testing
+
+* adsdasd ([2c960e8](https://github.com/ViralLka/changeMD/commit/2c960e86a0cbfbba9f44d697491f40775a06cec4))
+* dasasdasd ([22a3cec](https://github.com/ViralLka/changeMD/commit/22a3cec8da671acb81ac21d51208977e3ff07e48))
+
+### [1.1.1](https://github.com/ViralLka/changeMD/compare/v1.1.0...v1.1.1) (2024-01-29)
+
+
+### Testing
+
+* adsdasd ([2c960e8](https://github.com/ViralLka/changeMD/commit/2c960e86a0cbfbba9f44d697491f40775a06cec4))
+* dasasdasd ([22a3cec](https://github.com/ViralLka/changeMD/commit/22a3cec8da671acb81ac21d51208977e3ff07e48))
+
 ## 1.1.0 (2024-01-29)
 
 

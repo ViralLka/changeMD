@@ -1,28 +1,11 @@
 {
-  "branches": ["master"],
-  "ci":false,
+  "branches": [
+    "master"
+  ],
   "plugins": [
-    [
-      "@semantic-release/commit-analyzer",
-      {
-        "preset": "react",
-        "parserOpts": {
-          "noteKeywords": [
-            "BREAKING CHANGE",
-            "BREAKING CHANGES",
-            "BREAKING"
-          ]
-        }
-      }
-    ],
-    ["@semantic-release/release-notes-generator", {
-      "preset": "react",
-      "parserOpts": {
-        "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
-      }
-    }],
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
-    "@semantic-release/npm",
     "@semantic-release/git"
   ]
 }

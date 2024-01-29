@@ -12,6 +12,7 @@
   },
   "keywords": [],
   "author": "",
+  "branches": "master",
   "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^18.6.0",
